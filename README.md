@@ -1,2 +1,6 @@
 # ASTRA-Studio
-A highly customizable 2D creative suite with procedural shape tools and animation workflows
+ASTRA Studio is an open source art and animation suite built in Rust.
+
+## Status
+
+Currently in early development
