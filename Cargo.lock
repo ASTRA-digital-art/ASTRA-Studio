@@ -159,7 +159,7 @@ dependencies = [
 
 [[package]]
 name = "astra_studio"
-version = "26.7.16-dev"
+version = "26.7.17-dev"
 dependencies = [
  "env_logger",
  "log",
