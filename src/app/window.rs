@@ -12,7 +12,9 @@ impl AstraWindow {
         let window = event_loop
             .create_window(
                 WindowAttributes::default()
+                    .with_decorations(false)
                     .with_title("ASTRA Studio"),
+                    
             )
             .unwrap();
 
