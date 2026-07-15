@@ -2,5 +2,9 @@
 name = "astra-studio"
 version = "0.0.1"
 edition = "2024"
+license = "Apache-2.0"
+repository = "https://github.com/ASTRA-digital-art/ASTRA-Studio/"
+description = "Open-source digital art and animation suite with 3D-inspired, non-destructive tools."
+readme = "README.md"
 
 [dependencies]
