@@ -8,3 +8,7 @@ description = "Open-source digital art and animation suite with 3D-inspired, non
 readme = "README.md"
 
 [dependencies]
+winit = "*"
+env_logger = "*"
+log = "*"
+wgpu "*"
